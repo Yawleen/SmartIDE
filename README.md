@@ -1,6 +1,6 @@
 # 🚀 IDE Web pour HTML, CSS & JavaScript
 
-Un **IDE en ligne** développé avec **React.js** permettant d'éditer du code HTML, CSS et JavaScript, et de visualiser les changements en temps réel.
+Un **IDE en ligne** développé avec **React.js** et **TailwindCSS** permettant d'éditer du code HTML, CSS et JavaScript, et de visualiser les changements en temps réel.
 
 ---
 
@@ -8,18 +8,17 @@ Un **IDE en ligne** développé avec **React.js** permettant d'éditer du code H
 
 ✅ Éditeur de code interactif pour HTML, CSS et JavaScript  
 ✅ Prévisualisation des changements  
-✅ Mise en forme automatique du code pour une meilleure lisibilité  
 
 ---
 
 ## 🛠️ **Installation et lancement**
 
-1. **Cloner le repo :**
+**Cloner le repo :**
 ```bash
 git clone https://github.com/Yawleen/SmartIDE.git
 
 2. **Accéder au projet :**
-cd nom-du-repo
+cd SmartIDE
 
 3. **Installer les dépendances :**
 npm i 
