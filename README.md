@@ -1,6 +1,6 @@
 # 🚀 IDE Web pour HTML, CSS & JavaScript
 
-Un **IDE en ligne** développé avec **React.js** permettant d'éditer du code HTML, CSS et JavaScript, et de visualiser les changements en temps réel.
+Un **IDE en ligne** développé avec **React.js** et **TailwindCSS** permettant d'éditer du code HTML, CSS et JavaScript, et de visualiser les changements en temps réel.
 
 ---
 
