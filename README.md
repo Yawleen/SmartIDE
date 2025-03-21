@@ -18,7 +18,7 @@ Un **IDE en ligne** développé avec **React.js** permettant d'éditer du code H
 git clone https://github.com/Yawleen/SmartIDE.git
 
 2. **Accéder au projet :**
-cd nom-du-repo
+cd SmartIDE
 
 3. **Installer les dépendances :**
 npm i 
