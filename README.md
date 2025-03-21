@@ -13,7 +13,7 @@ Un **IDE en ligne** développé avec **React.js** permettant d'éditer du code H
 
 ## 🛠️ **Installation et lancement**
 
-1. **Cloner le repo :**
+**Cloner le repo :**
 ```bash
 git clone https://github.com/Yawleen/SmartIDE.git
 
