@@ -8,7 +8,6 @@ Un **IDE en ligne** développé avec **React.js** permettant d'éditer du code H
 
 ✅ Éditeur de code interactif pour HTML, CSS et JavaScript  
 ✅ Prévisualisation des changements  
-✅ Mise en forme automatique du code pour une meilleure lisibilité  
 
 ---
 
